@@ -1,9 +1,9 @@
 # Software Engineering Concepts
 
-Author: Abhijay Rajvansh
+Author: [Abhijay Rajvansh](https://linkedin.com/in/abhijayrajvansh)
 
 ## Foundation 
 - Javascript basics:
   - callback functions
-  - async functions
+  - asynchronous functions
   - promises
