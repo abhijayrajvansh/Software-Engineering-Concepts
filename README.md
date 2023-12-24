@@ -6,4 +6,4 @@ Author: [Abhijay Rajvansh](https://linkedin.com/in/abhijayrajvansh)
 - Javascript basics:
   - callback functions
   - async functions and asynchronous programming
-  - promises
+  - promises, async, await
