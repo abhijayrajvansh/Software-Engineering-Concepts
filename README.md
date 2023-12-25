@@ -3,7 +3,7 @@
 Author: [Abhijay Rajvansh](https://linkedin.com/in/abhijayrajvansh)
 
 ## Foundation 
-- Javascript basics
+- Javascript foundation
   - callback functions
   - async functions and asynchronous programming
   - promises, async, await
