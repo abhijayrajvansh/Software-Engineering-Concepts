@@ -8,3 +8,4 @@ Author: [Abhijay Rajvansh](https://linkedin.com/in/abhijayrajvansh)
   - async functions and asynchronous programming
   - promises, async, await
   - APIs handling
+  - DOM
