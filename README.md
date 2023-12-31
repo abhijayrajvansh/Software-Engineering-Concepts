@@ -1,6 +1,6 @@
 # Software Engineering Concepts
 
-Author: [Abhijay Rajvansh](https://linkedin.com/in/abhijayrajvansh)
+Author: [Abhijay Rajvansh](https://x.com/rajvanshtwt). For any queries, feel free to DM!
 
 ## Foundation 
 - Javascript foundation
