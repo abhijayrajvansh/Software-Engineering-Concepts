@@ -19,4 +19,4 @@ Author: [Abhijay Rajvansh](https://x.com/rajvanshtwt). For any queries, feel fre
 ## Frontend
 - React.Js
   - Components and structure
-  
+  - Hooks {useState & useEffect} architecture
